@@ -4,7 +4,7 @@ class Me
   ## TODO: Figure out who this is...
 end
 
-$universe = Random.new(0x70B3)
+$universe = Random.new()
 def $universe.thermodynamic_miracle
   ## ...Miracles... 
 

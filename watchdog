@@ -1,0 +1,8 @@
+#/usr/bash
+
+
+until ruby $1; do
+  sleep 10
+  echo '\e[H\e[2J\n\nRestarting...'
+  sleep 3
+done

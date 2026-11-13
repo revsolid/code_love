@@ -8,10 +8,25 @@ Each snippet of code produces an action, if you can't run the code locally, feel
 
 
 ### Index
-[I.   Quiet.rb](./1_Quiet.rb) | [Action](https://youtu.be/LY_6aP5sJS0)  
-[II.  Miracle.rb](./2_Miracle.rb) | [Action](https://youtu.be/mVb_m-xN7lY)  
-[III. Infatuation.rb](./3_Infatuation.rb) | [Action](https://youtu.be/Hicze48X-aY)  
-[IV.  Intimacy.rb](./4_Intimacy.rb) | [Action](https://youtu.be/N1f8bN-mznw)  
-[V.   Dissoulution.rb](./5_Dissoulution.rb) | [Action](https://youtu.be/MibHUNOT1bQ)  
-[VI.  Drift.rb](./6_Drift.rb) | [Action](https://youtu.be/b8vx861KqkA)  
-[VII. Quiet Bis](./7_Quiet_bis.rb) | [Action](https://youtu.be/A5sUWD78ZW0)  
+
+#### I. Quiet
+[Quiet.rb](./1_Quiet.rb)   
+[Action](https://youtu.be/LY_6aP5sJS0)  
+#### II. Miracle
+[Miracle.rb](./2_Miracle.rb)  
+[Action](https://youtu.be/mVb_m-xN7lY)  
+#### III. Infatuation
+[Infatuation.rb](./3_Infatuation.rb)  
+[Action](https://youtu.be/Hicze48X-aY)  
+#### IV. Intimacy
+[Intimacy.rb](./4_Intimacy.rb)  
+[Action](https://youtu.be/N1f8bN-mznw)  
+#### V. Dissoulution
+[Dissoulution.rb](./5_Dissoulution.rb)  
+[Action](https://youtu.be/MibHUNOT1bQ)  
+#### VI. Drift
+[Drift.rb](./6_Drift.rb)  
+[Action](https://youtu.be/b8vx861KqkA)  
+#### VII. Quiet Bis
+[Quiet Bis](./7_Quiet_bis.rb)  
+[Action](https://youtu.be/A5sUWD78ZW0)  

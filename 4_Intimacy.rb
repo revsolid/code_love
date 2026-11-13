@@ -45,6 +45,8 @@ end
 me, you = Us()
 me.my_eager_arms = {}
 
+
+
 while "... it's getting hot in here ..."
 
   oh = (`sysctl machdep.xcpm.cpu_thermal_level`).split(' ')[1].to_i

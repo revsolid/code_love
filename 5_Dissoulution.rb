@@ -45,7 +45,8 @@ class You
 
   def tear_down_walls(s)
     i = rand(s.length)
-    @@t = @@t.next; s[i] = " " unless (s[i] == "\n" or rand() > ([0.01*@@t, 0.5].min))
+    @@t = @@t.next;
+    s[i] = " " unless (s[i] == "\n" or rand() > ([0.01*@@t, 0.5].min))
   end
 end
 

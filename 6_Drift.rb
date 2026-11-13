@@ -23,8 +23,8 @@ you.sync = (0.1+0.2)-0.05
 while "... we stay in sync ..."
   puts "\e[H\e[2J"
 
-  my_s = "#{"\t"*3}"
-  ur_s = "#{"\t"*3}"
+  my_s = "#{"\t"*1}"
+  ur_s = "#{"\t"*1}"
 
   d = you.sync - me.sync
   dl = ((d/0.5).to_i)+1
